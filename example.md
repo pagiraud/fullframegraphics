@@ -1,0 +1,22 @@
+---
+aspectratio: 169
+theme: metropolis
+title: "Fullframegraphics example"
+---
+
+## A too wide image {.fullframegraphic}
+
+![Toronto Skyline Wide 2014 by Christine Wagner (Flickr)](images/Toronto_Skyline_Wide_2014.jpg)
+
+## A too wide image (no adjust) {.fullframegraphic}
+
+![Toronto Skyline Wide 2014 by Christine Wagner (Flickr)](images/Toronto_Skyline_Wide_2014.jpg){.noadjust}
+
+## A too tall image {.fullframegraphic}
+
+![Mexico, by Emmanuel Hernández (Pexels)](images/pexels-emmanuel-hernandez.jpg)
+
+## A too tall image (no adjust) {.fullframegraphic}
+
+![Mexico, by Emmanuel Hernández (Pexels)](images/pexels-emmanuel-hernandez.jpg){.noadjust}
+
