@@ -2,7 +2,7 @@
 
 This Pandoc filter / Quarto extension allows to easily create and configure Beamer slides with full frame graphics.
 
-It has at least four advantages over using plain LaTeX code in your markdown documents:
+It has at least three advantages over using plain LaTeX code in your markdown documents:
 
 1.  It computes how to fill the frame, whether your image is too large or too tall.
 2.  It displays nicely in WYSIWYM markdown editors such as RStudio or Zettlr: you still have the image preview, and you can give titles to your slides to spot them easily in the outline.
