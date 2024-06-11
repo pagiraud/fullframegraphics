@@ -8,7 +8,7 @@ It has at least three advantages over using plain LaTeX code in your markdown do
 2.  It displays nicely in WYSIWYM markdown editors such as RStudio or Zettlr: you still have the image preview, and you can give titles to your slides to spot them easily in the outline.
 3.  It is easily configurable, even partly on a case by case basis.
 
-The LaTeX part of the code is blattantly ispired by [Ojdo’s work](https://www.ojdo.de/wp/2018/06/finally-the-definitive-full-frame-graphic-commands-for-beamer-in-latex/).
+The LaTeX part of the code is blattantly inspired by [Ojdo’s work](https://www.ojdo.de/wp/2018/06/finally-the-definitive-full-frame-graphic-commands-for-beamer-in-latex/).
 
 ## Installing
 
